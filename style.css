@@ -1,0 +1,29 @@
+.card {
+    margin: 50px;
+    padding: 30px;
+}
+
+.Welcome {
+    padding: 40px;
+}
+
+.navbar {
+    color: white;
+}
+
+.bord-card {
+    margin-top: 40px;
+    margin-bottom: 58px;
+}
+
+.Kassa {
+    justify-content: space-between;
+}
+
+.button-div {
+    justify-content: space-between;
+}
+
+.box1 {
+    padding: 30px;
+}
